@@ -106,47 +106,6 @@ The converter transitions from Continuous Conduction Mode to Discontinuous Condu
 
 ---
 
-##  Repository Structure
-
-```text
-Buck-Boost-Converter/
-│── Images/
-│── Report/
-│── Hardware/
-│── README.md
-```
-
----
-
-## 📷 Hardware Setup
-
-> Add your hardware images here.
-
-```markdown
-<p align="center">
-  <img src="Images/setup.jpg" width="700">
-</p>
-```
-
----
-
-## 📈 Experimental Waveforms
-
-Include oscilloscope screenshots for:
-
-- Buck Mode (CCM)
-- Boost Mode (CCM)
-- DCM Operation
-
-Example:
-
-```markdown
-<p align="center">
-  <img src="Images/buck_ccm.png" width="700">
-</p>
-```
-
----
 
 ##  Report
 
