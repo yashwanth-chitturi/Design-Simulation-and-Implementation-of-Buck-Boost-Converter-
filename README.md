@@ -1,6 +1,6 @@
 # Buck-Boost Converter Design and Analysis
 
-A hardware implementation and experimental analysis of a **Buck-Boost DC-DC Converter** developed as part of the **Electrical Machines, Power Electronics and Energy Laboratory (EMPEL)** course. The project investigates converter operation in both **Continuous Conduction Mode (CCM)** and **Discontinuous Conduction Mode (DCM)** through hardware implementation and waveform analysis.
+A hardware implementation and experimental analysis of a **Buck-Boost DC-DC Converter** developed as part of the **Electrical Machines, Power Electronics Laboratory (EMPEL)** course. The project investigates converter operation in both **Continuous Conduction Mode (CCM)** and **Discontinuous Conduction Mode (DCM)** through hardware implementation and waveform analysis.
 
 ![Hardware](https://img.shields.io/badge/Implementation-Hardware-blue)
 ![Power Electronics](https://img.shields.io/badge/Domain-Power%20Electronics-success)
@@ -116,6 +116,7 @@ The complete project report, including hardware setup, waveform analysis, experi
 ##  Author
 
 **Yashwanth Sri Sai Chitturi**
+**Mamindlapelly Sai Krishna**
 
 B.Tech Electrical Engineering
 
