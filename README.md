@@ -113,7 +113,7 @@ The complete project report, including hardware setup, waveform analysis, experi
 
 ---
 
-##  Author
+##  Authors
 
 **Yashwanth Sri Sai Chitturi**  
 **Mamindlapelly Sai Krishna**
