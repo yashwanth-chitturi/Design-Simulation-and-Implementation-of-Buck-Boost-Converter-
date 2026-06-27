@@ -115,7 +115,7 @@ The complete project report, including hardware setup, waveform analysis, experi
 
 ##  Author
 
-**Yashwanth Sri Sai Chitturi**
+**Yashwanth Sri Sai Chitturi**  
 **Mamindlapelly Sai Krishna**
 
 B.Tech Electrical Engineering
